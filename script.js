@@ -494,7 +494,7 @@ ytpSetI.innerHTML+=`<b style='font-size:18px' >PREMIUM Settings</b>
 <br><br>
 <div style="font-size:1.25rem;"><b style="font-weight:bold">Feature</b>: Discover a YouTube-like experience with all premium options available, completely ad-free.
 <br><br><center>
-DEVELOPER : <a href="#" onclick="Android.oplink('https://t.me/httpsiam')" >DEVELOPER :HTTPSIAM</a>
+DEVELOPER : <a href="#" onclick="Android.oplink('https://t.me/httpsiam')" >HTTPSIAM</a>
 </center></div>`;
 
 document.body.appendChild(ytpSet);
