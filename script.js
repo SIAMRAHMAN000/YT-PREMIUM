@@ -493,9 +493,9 @@ ytpSetI.innerHTML+=`<b style='font-size:18px' >PREMIUM Settings</b>
 &#x2665; by TASIN</div>
 <br><br>
 <div style="font-size:1.25rem;"><b style="font-weight:bold">Feature</b>: Discover a YouTube-like experience with all premium options available, completely ad-free.<br>
- Author:<a href="#" onclick="Android.oplink('https://t.me/l7z_q')" >T A S I N</a>
+ Author:<a href="#" onclick="Android.oplink('https://t.me/httpsiam')" >HTTP SIAM</a>
 <br><br><center>
-<a href="#" onclick="Android.oplink('https://t.me/l7z_q')" >T A S I N</a>
+<a href="#" onclick="Android.oplink('https://t.me/l7z_q')" >HTTP SIAM</a>
 </center></div>`;
 
 document.body.appendChild(ytpSet);
