@@ -492,10 +492,9 @@ ytpSetI.innerHTML+=`<b style='font-size:18px' >PREMIUM Settings</b>
 <div style="display:flex;justify-content:center;font-family:cursive;text-align:center;font-size:2.25rem;font-weight:bolder;color:#0f8;">Made 
 &#x2665; by HTTP SIAM</div>
 <br><br>
-<div style="font-size:1.25rem;"><b style="font-weight:bold">Feature</b>: Discover a YouTube-like experience with all premium options available, completely ad-free.<br>
- Author:<a href="#" onclick="Android.oplink('https://t.me/httpsiam')" >HTTP SIAM</a>
+<div style="font-size:1.25rem;"><b style="font-weight:bold">Feature</b>: Discover a YouTube-like experience with all premium options available, completely ad-free.
 <br><br><center>
-<a href="#" onclick="Android.oplink('https://t.me/l7z_q')" >HTTP SIAM</a>
+DEVELOPER : <a href="#" onclick="Android.oplink('https://t.me/httpsiam')" >DEVELOPER :HTTPSIAM</a>
 </center></div>`;
 
 document.body.appendChild(ytpSet);
